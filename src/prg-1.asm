@@ -975,7 +975,7 @@ ReadPatternData_Shortcut:
 	BNE ReadPatternData_NextWord
 	; 00 = End / Loop
 	LDA zMusicLoopPointers + 1, X
-	BEQ ReadPatternData_End
+	BEQ ReadPatternData_Bail
 
 	LDA zMusicLoopPointers, X
 	STA zMusicPatternPointers, X

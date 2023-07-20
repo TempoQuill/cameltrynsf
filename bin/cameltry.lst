@@ -1624,7 +1624,7 @@
 08759 D0 12                     	BNE ReadPatternData_NextWord
 0875B                           	; 00 = End / Loop
 0875B B5 19                     	LDA zMusicLoopPointers + 1, X
-0875D F0 0A                     	BEQ ReadPatternData_End
+0875D F0 0C                     	BEQ ReadPatternData_Bail
 0875F                           
 0875F B5 18                     	LDA zMusicLoopPointers, X
 08761 95 00                     	STA zMusicPatternPointers, X
