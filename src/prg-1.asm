@@ -506,7 +506,7 @@ InitSong:
 
 DefaultNoteLength:
 	; default note length
-	LDA #0
+	LDA #1
 	STA iMusicPulse1NoteLength
 	STA iMusicPulse2NoteLength
 	STA iMusicHillNoteLength
