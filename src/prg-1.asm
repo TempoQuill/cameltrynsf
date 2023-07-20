@@ -421,6 +421,7 @@ ProcessMusic3Queue_CopyData:
 
 
 ProcessMusic2Queue:
+	STA iCurrentMusic2
 	; iMusic2 is second in RAM
 	LDY #$08
 	STY iMusicOffset
@@ -441,6 +442,7 @@ ProcessMusic2Queue_CopyData:
 
 
 ProcessMusic1Queue:
+	STA iCurrentMusic1
 	; iMusic1 is first in RAM
 	JSR ClearLoops
 	STY iMusicOffset
