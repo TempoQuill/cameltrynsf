@@ -1,0 +1,36 @@
+PD_MR_Pulse1:
+	sound_play MusicData_MountainRoad_Pulse1Pulse2
+	establish_loop
+	sound_play MusicData_MountainRoad_Pulse1
+	sound_play MusicData_MountainRoad_Pulse1
+	sound_play MusicData_MountainRoad_Pulse1Pulse2
+	sound_play MusicData_MountainRoad_Pulse1Pulse2
+	pat_ret
+
+PD_MR_Pulse2:
+	sound_play MusicData_MountainRoad_Pulse1Pulse2
+	establish_loop
+	sound_play MusicData_MountainRoad_Pulse2
+	sound_play MusicData_MountainRoad_Pulse2
+	sound_play MusicData_MountainRoad_Pulse1Pulse2
+	sound_play MusicData_MountainRoad_Pulse1Pulse2
+	pat_ret
+
+PD_MR_Noise:
+	sound_play MusicData_MountainRoad_Noise_1
+	establish_loop
+	sound_play MusicData_MountainRoad_Noise_2
+	sound_play MusicData_MountainRoad_Noise_2
+	sound_play MusicData_MountainRoad_Noise_2
+	sound_play MusicData_MountainRoad_Noise_2
+	sound_play MusicData_MountainRoad_Noise_1
+	sound_play MusicData_MountainRoad_Noise_1
+	pat_ret
+
+PD_MR_FDS:
+	sound_play MusicData_MountainRoad_FDS_1
+	establish_loop
+	sound_play MusicData_MountainRoad_FDS_2
+	sound_play MusicData_MountainRoad_FDS_2
+	sound_play MusicData_MountainRoad_FDS_3
+	pat_ret

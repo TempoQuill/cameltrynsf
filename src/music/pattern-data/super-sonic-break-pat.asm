@@ -1,0 +1,62 @@
+PD_SSB_Pulse1:
+	establish_loop
+	sound_play MusicData_SuperSonicBreak_Pulse1_1
+	sound_play MusicData_SuperSonicBreak_Pulse1_2
+	sound_play MusicData_SuperSonicBreak_Pulse1_2
+	sound_play MusicData_SuperSonicBreak_Pulse1_1
+	sound_play MusicData_SuperSonicBreak_Pulse1_2
+	sound_play MusicData_SuperSonicBreak_Pulse1_3
+	sound_play MusicData_SuperSonicBreak_Pulse1Pulse2
+	sound_play MusicData_SuperSonicBreak_Pulse1Pulse2
+	sound_play MusicData_SuperSonicBreak_Pulse1_4
+	pat_ret
+
+PD_SSB_Pulse2:
+	establish_loop
+	sound_play MusicData_SuperSonicBreak_Pulse1Pulse2
+	sound_play MusicData_SuperSonicBreak_Pulse1Pulse2
+	sound_play MusicData_SuperSonicBreak_Pulse2_1
+	sound_play MusicData_SuperSonicBreak_Pulse2_1
+	sound_play MusicData_SuperSonicBreak_Pulse2_2
+	sound_play MusicData_SuperSonicBreak_Pulse2_2
+	sound_play MusicData_SuperSonicBreak_Pulse1Pulse2
+	sound_play MusicData_SuperSonicBreak_Pulse1Pulse2
+	sound_play MusicData_SuperSonicBreak_Pulse1Pulse2
+	sound_play MusicData_SuperSonicBreak_Pulse1Pulse2
+	sound_play MusicData_SuperSonicBreak_Pulse2_1
+	sound_play MusicData_SuperSonicBreak_Pulse2_1
+	sound_play MusicData_SuperSonicBreak_Pulse2_2
+	sound_play MusicData_SuperSonicBreak_Pulse2_2
+	sound_play MusicData_SuperSonicBreak_Pulse1Pulse2
+	sound_play MusicData_SuperSonicBreak_Pulse1Pulse2
+	sound_play MusicData_SuperSonicBreak_Pulse2_3
+	sound_play MusicData_SuperSonicBreak_Pulse2_1
+	sound_play MusicData_SuperSonicBreak_Pulse2_1
+	sound_play MusicData_SuperSonicBreak_Pulse2_2
+	sound_play MusicData_SuperSonicBreak_Pulse2_2
+	sound_play MusicData_SuperSonicBreak_Pulse1Pulse2
+	sound_play MusicData_SuperSonicBreak_Pulse1Pulse2
+	pat_ret
+
+PD_SSB_Hill:
+	establish_loop
+	sound_play MusicData_SuperSonicBreak_Hill_1
+	sound_play MusicData_SuperSonicBreak_Hill_2
+	sound_play MusicData_SuperSonicBreak_Hill_1
+	sound_play MusicData_SuperSonicBreak_Hill_2
+	sound_play MusicData_SuperSonicBreak_Hill_1
+	sound_play MusicData_SuperSonicBreak_Hill_3
+	pat_ret
+
+PD_SSB_Noise:
+	establish_loop
+	sound_play MusicData_SuperSonicBreak_Noise
+	pat_ret
+
+PD_SSB_FDS:
+	establish_loop
+	sound_play MusicData_SuperSonicBreak_FDS_1
+	sound_play MusicData_SuperSonicBreak_FDS_1
+	sound_play MusicData_SuperSonicBreak_FDS_1
+	sound_play MusicData_SuperSonicBreak_FDS_2
+	pat_ret

@@ -1,0 +1,130 @@
+PD_TAT_Pulse1:
+	sound_play MusicData_TurnAndTry_IntroSilence
+	establish_loop
+	sound_play MusicData_TurnAndTry_Silence
+	sound_play MusicData_TurnAndTry_Silence
+	sound_play MusicData_TurnAndTry_Silence
+	sound_play MusicData_TurnAndTry_Silence
+	sound_play MusicData_TurnAndTry_Pulse1Pulse2
+	sound_play MusicData_TurnAndTry_Pulse1Pulse2
+	sound_play MusicData_TurnAndTry_Pulse1_1
+	sound_play MusicData_TurnAndTry_Pulse1_1
+	sound_play MusicData_TurnAndTry_Pulse1_2
+	sound_play MusicData_TurnAndTry_Pulse1_2
+	sound_play MusicData_TurnAndTry_Pulse1_2
+	sound_play MusicData_TurnAndTry_Pulse1_2
+	sound_play MusicData_TurnAndTry_Silence
+	sound_play MusicData_TurnAndTry_Pulse1_3
+	pat_ret
+
+PD_TAT_Pulse2:
+	sound_play MusicData_TurnAndTry_IntroSilence
+	establish_loop
+	sound_play MusicData_TurnAndTry_Silence
+	sound_play MusicData_TurnAndTry_Silence
+	sound_play MusicData_TurnAndTry_Silence
+	sound_play MusicData_TurnAndTry_Silence
+	sound_play MusicData_TurnAndTry_Silence
+	sound_play MusicData_TurnAndTry_Silence
+	sound_play MusicData_TurnAndTry_Silence
+	sound_play MusicData_TurnAndTry_Silence
+	sound_play MusicData_TurnAndTry_Pulse1Pulse2
+	sound_play MusicData_TurnAndTry_Pulse1Pulse2
+	sound_play MusicData_TurnAndTry_Pulse2_1
+	sound_play MusicData_TurnAndTry_Pulse2_1
+	sound_play MusicData_TurnAndTry_Pulse2_1
+	sound_play MusicData_TurnAndTry_Pulse2_1
+	sound_play MusicData_TurnAndTry_Silence
+	sound_play MusicData_TurnAndTry_Pulse2_2
+	pat_ret
+
+PD_TAT_Hill:
+	sound_play MusicData_TurnAndTry_IntroSilence
+	establish_loop
+	sound_play MusicData_TurnAndTry_Silence
+	sound_play MusicData_TurnAndTry_Silence
+	sound_play MusicData_TurnAndTry_Silence
+	sound_play MusicData_TurnAndTry_Silence
+	sound_play MusicData_TurnAndTry_Hill_1
+	sound_play MusicData_TurnAndTry_Hill_1
+	sound_play MusicData_TurnAndTry_Hill_1
+	sound_play MusicData_TurnAndTry_Hill_1
+	sound_play MusicData_TurnAndTry_Hill_1
+	sound_play MusicData_TurnAndTry_Hill_1
+	sound_play MusicData_TurnAndTry_Hill_1
+	sound_play MusicData_TurnAndTry_Hill_1
+	sound_play MusicData_TurnAndTry_Hill_2
+	sound_play MusicData_TurnAndTry_Silence
+	sound_play MusicData_TurnAndTry_Silence
+	pat_ret
+
+PD_TAT_Noise:
+	sound_play MusicData_TurnAndTry_Noise_1
+	establish_loop
+	sound_play MusicData_TurnAndTry_Noise_2
+	sound_play MusicData_TurnAndTry_Noise_2
+	sound_play MusicData_TurnAndTry_Noise_2
+	sound_play MusicData_TurnAndTry_Noise_2
+	sound_play MusicData_TurnAndTry_Noise_2
+	sound_play MusicData_TurnAndTry_Noise_2
+	sound_play MusicData_TurnAndTry_Noise_2
+	sound_play MusicData_TurnAndTry_Noise_2
+	sound_play MusicData_TurnAndTry_Noise_2
+	sound_play MusicData_TurnAndTry_Noise_2
+	sound_play MusicData_TurnAndTry_Noise_3
+	sound_play MusicData_TurnAndTry_Noise_2
+	pat_ret
+
+PD_TAT_DPCM:
+	sound_play MusicData_TurnAndTry_IntroSilence
+	establish_loop
+	sound_play MusicData_TurnAndTry_DPCM_1
+	sound_play MusicData_TurnAndTry_Silence
+	sound_play MusicData_TurnAndTry_Silence
+	sound_play MusicData_TurnAndTry_Silence
+	sound_play MusicData_TurnAndTry_Silence
+	sound_play MusicData_TurnAndTry_Silence
+	sound_play MusicData_TurnAndTry_Silence
+	sound_play MusicData_TurnAndTry_Silence
+	sound_play MusicData_TurnAndTry_Silence
+	sound_play MusicData_TurnAndTry_DPCM_2
+	sound_play MusicData_TurnAndTry_Silence
+	sound_play MusicData_TurnAndTry_Silence
+	sound_play MusicData_TurnAndTry_Silence
+	sound_play MusicData_TurnAndTry_DPCM_2
+	sound_play MusicData_TurnAndTry_Silence
+	sound_play MusicData_TurnAndTry_Silence
+	sound_play MusicData_TurnAndTry_Silence
+	sound_play MusicData_TurnAndTry_Silence
+	sound_play MusicData_TurnAndTry_Silence
+	sound_play MusicData_TurnAndTry_Silence
+	pat_ret
+
+PD_TAT_FDS:
+	sound_play MusicData_TurnAndTry_IntroSilence
+	establish_loop
+	sound_play MusicData_TurnAndTry_FDS_1
+	sound_play MusicData_TurnAndTry_FDS_1
+	sound_play MusicData_TurnAndTry_FDS_1
+	sound_play MusicData_TurnAndTry_FDS_2
+	sound_play MusicData_TurnAndTry_FDS_1
+	sound_play MusicData_TurnAndTry_FDS_1
+	sound_play MusicData_TurnAndTry_FDS_1
+	sound_play MusicData_TurnAndTry_FDS_1
+	sound_play MusicData_TurnAndTry_FDS_1
+	sound_play MusicData_TurnAndTry_FDS_1
+	sound_play MusicData_TurnAndTry_FDS_1
+	sound_play MusicData_TurnAndTry_FDS_3
+	sound_play MusicData_TurnAndTry_FDS_1
+	sound_play MusicData_TurnAndTry_FDS_1
+	sound_play MusicData_TurnAndTry_FDS_1
+	sound_play MusicData_TurnAndTry_FDS_2
+	sound_play MusicData_TurnAndTry_FDS_1
+	sound_play MusicData_TurnAndTry_FDS_2
+	sound_play MusicData_TurnAndTry_FDS_1
+	sound_play MusicData_TurnAndTry_FDS_1
+	sound_play MusicData_TurnAndTry_FDS_4
+	sound_play MusicData_TurnAndTry_FDS_4
+	sound_play MusicData_TurnAndTry_FDS_5
+	sound_play MusicData_TurnAndTry_FDS_5
+	pat_ret

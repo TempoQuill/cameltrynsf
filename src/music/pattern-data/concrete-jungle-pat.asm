@@ -1,0 +1,75 @@
+PD_CJ_Pulse1:
+	establish_loop
+	sound_play MusicData_ConcreteJungle_Pulse1Pulse2
+	sound_play MusicData_ConcreteJungle_Pulse1Pulse2
+	sound_play MusicData_ConcreteJungle_Pulse1Pulse2
+	sound_play MusicData_ConcreteJungle_Pulse1_1
+	sound_play MusicData_ConcreteJungle_Pulse1_1
+	sound_play MusicData_ConcreteJungle_Pulse1_2
+	sound_play MusicData_ConcreteJungle_Pulse1_3
+	sound_play MusicData_ConcreteJungle_Pulse1_4
+	sound_play MusicData_ConcreteJungle_Pulse1_3
+	sound_play MusicData_ConcreteJungle_Pulse1_5
+	pat_ret
+
+PD_CJ_Pulse2:
+	pitch_inc_switch
+	establish_loop
+	sound_play MusicData_ConcreteJungle_Pulse2_1
+	sound_play MusicData_ConcreteJungle_Pulse1Pulse2
+	sound_play MusicData_ConcreteJungle_Pulse1Pulse2
+	sound_play MusicData_ConcreteJungle_Pulse2_2
+	pat_ret
+
+PD_CJ_Hill:
+	establish_loop
+	sound_play MusicData_ConcreteJungle_Hill_1
+	sound_play MusicData_ConcreteJungle_Hill_1
+	sound_play MusicData_ConcreteJungle_Hill_1
+	sound_play MusicData_ConcreteJungle_Hill_1
+	sound_play MusicData_ConcreteJungle_Hill_1
+	sound_play MusicData_ConcreteJungle_Hill_2
+	sound_play MusicData_ConcreteJungle_Hill_1
+	sound_play MusicData_ConcreteJungle_Hill_3
+	sound_play MusicData_ConcreteJungle_Hill_4
+	sound_play MusicData_ConcreteJungle_Hill_1
+	sound_play MusicData_ConcreteJungle_Hill_3
+	sound_play MusicData_ConcreteJungle_Hill_5
+	pat_ret
+
+PD_CJ_Noise:
+	establish_loop
+	sound_play MusicData_ConcreteJungle_Noise_1
+	sound_play MusicData_ConcreteJungle_Noise_2
+	sound_play MusicData_ConcreteJungle_Noise_2
+	sound_play MusicData_ConcreteJungle_Noise_2
+	sound_play MusicData_ConcreteJungle_Noise_2
+	sound_play MusicData_ConcreteJungle_Noise_3
+	sound_play MusicData_ConcreteJungle_Noise_2
+	sound_play MusicData_ConcreteJungle_Noise_2
+	sound_play MusicData_ConcreteJungle_Noise_2
+	sound_play MusicData_ConcreteJungle_Noise_2
+	pat_ret
+
+PD_CJ_FDS:
+	establish_loop
+	sound_play MusicData_ConcreteJungle_FDS_1
+	sound_play MusicData_ConcreteJungle_FDS_2
+	sound_play MusicData_ConcreteJungle_FDS_2
+	sound_play MusicData_ConcreteJungle_FDS_2
+	sound_play MusicData_ConcreteJungle_FDS_2
+	sound_play MusicData_ConcreteJungle_FDS_2
+	sound_play MusicData_ConcreteJungle_FDS_2
+	sound_play MusicData_ConcreteJungle_FDS_2
+	sound_play MusicData_ConcreteJungle_FDS_3
+	sound_play MusicData_ConcreteJungle_FDS_2
+	sound_play MusicData_ConcreteJungle_FDS_4
+	sound_play MusicData_ConcreteJungle_FDS_2
+	sound_play MusicData_ConcreteJungle_FDS_2
+	sound_play MusicData_ConcreteJungle_FDS_2
+	sound_play MusicData_ConcreteJungle_FDS_2
+	sound_play MusicData_ConcreteJungle_FDS_2
+	sound_play MusicData_ConcreteJungle_FDS_2
+	sound_play MusicData_ConcreteJungle_FDS_2
+	sound_play MusicData_ConcreteJungle_FDS_5
+	pat_ret
