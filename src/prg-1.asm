@@ -296,9 +296,6 @@ ProcessMusicQueue:
 	LDA iMusic2
 	BNE ProcessMusicQueue_Music2
 
-	LDA iMusicStack
-	BEQ StopMusic
-
 	LDA iCurrentMusic1
 	ORA iCurrentMusic2
 	ORA iCurrentMusic3
