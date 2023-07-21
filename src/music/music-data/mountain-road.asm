@@ -5,7 +5,7 @@ MusicData_MountainRoad_Pulse1Pulse2:
 
 MusicData_MountainRoad_Pulse1:
 	instrument 9
-	volume_fade 1, 12
+	volume_fade 1, 10
 	note_length M1, S1
 	pitch_slide 2, A_, 3
 	note G_, 2

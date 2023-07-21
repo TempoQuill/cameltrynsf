@@ -27,10 +27,11 @@ MusicData_NumberMiss_Pulse2:
 	note_length M1_5, S16
 	note E_, 4
 	note E_, 4
+	instrument 0
 	note_length M1, S16
 	pitch_slide 24, E_, 1
 	note E_, 2
-	volume_fade 0, 2
+	volume_fade 0, 8
 	tie
 	note_length M1_5, S2
 	tie

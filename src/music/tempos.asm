@@ -22,7 +22,7 @@ MusicTempos:
 	.db $14 ; $10
 	.db $18 ; $14
 	.db $18 ; $14
-	.db $18 ; $14
+	.db $10 ; $0C
 	.db $10 ; $0C
 	.db $16 ; $12
 	; iMusic2

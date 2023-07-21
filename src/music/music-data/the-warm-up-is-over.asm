@@ -1,6 +1,6 @@
 MusicData_TWUIO_Pulse1_1:
 	instrument 18
-	volume_fade 1, 14
+	volume_fade 1, 10
 	note_length M1, S0_5
 	note C_, 5
 	sound_ret

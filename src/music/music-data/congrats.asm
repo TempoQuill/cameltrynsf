@@ -114,7 +114,7 @@ MusicData_Congrats_Pulse1:
 
 	note_length M3, S4
 	note C#, 4
-	volume_fade 0, 10
+	volume_fade 0, 12
 	note_length M4_5, S2
 	tie
 	sound_ret

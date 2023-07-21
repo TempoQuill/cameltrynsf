@@ -1,6 +1,6 @@
 MusicData_SuperSonicBreak_Pulse1_1:
 	instrument 0
-	volume_fade 1, 11
+	volume_fade 1, 14
 	note_length M1, S1
 	note C#, 4
 	note_length M1_5, S2
@@ -18,7 +18,7 @@ MusicData_SuperSonicBreak_Pulse1_1:
 
 MusicData_SuperSonicBreak_Pulse1_2:
 	instrument 0
-	volume_fade 1, 11
+	volume_fade 1, 14
 	note_length M1, S1
 	note E_, 4
 	note_length M1_5, S2
@@ -94,7 +94,7 @@ MusicData_SuperSonicBreak_Pulse1Pulse2:
 
 MusicData_SuperSonicBreak_Pulse1_4:
 	instrument 0
-	volume_fade 1, 2
+	volume_fade 1, 4
 	note_length M1, S2
 	rest
 	note_length M1, S16

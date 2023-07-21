@@ -19,7 +19,7 @@ MusicData_FinalTrial_Pulse1:
 	note B_, 3
 	note_length M1, S32
 	rest
-	volume_fade 0, 3
+	volume_fade 0, 5
 	note_length M1, S2
 	note C_, 4
 	sound_ret
@@ -44,7 +44,7 @@ MusicData_FinalTrial_Pulse2:
 	note D_, 4
 	note_length M1, S32
 	rest
-	volume_fade 0, 3
+	volume_fade 0, 5
 	note_length M1, S2
 	note G_, 4
 	sound_ret
@@ -70,7 +70,8 @@ MusicData_FinalTrial_FDS:
 	note B_, 3
 	note_length M1, S32
 	rest
-	volume_fade 0, 3
+	instrument 16
+	volume_fade 0, 2
 	note_length M1, S2
 	note D_, 4
 	sound_ret
