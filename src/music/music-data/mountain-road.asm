@@ -14,7 +14,7 @@ MusicData_MountainRoad_Pulse1:
 	sound_ret
 
 MusicData_MountainRoad_Pulse2:
-	instrument 1
+	instrument 0
 	volume_const
 	note_length M1_5, S16
 	note A_, 1
@@ -44,8 +44,6 @@ MusicData_MountainRoad_Pulse2:
 	note A_, 2
 	note_length M1, S32
 	rest
-	instrument 1
-	volume_const
 	note_length M1_5, S16
 	note A_, 1
 	note_length M1, S32

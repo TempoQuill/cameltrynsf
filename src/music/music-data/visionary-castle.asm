@@ -186,27 +186,33 @@ MusicData_VisionaryCastle_Pulse1_4:
 	sound_ret
 
 MusicData_VisionaryCastle_Pulse1_5:
-	instrument 21
+	instrument 0
 	volume_const
-	note_length M1, S4
-	pitch_slide 6, A#, 2
+	note_length M1, S8
 	note A#, 4
+	pitch_slide 8, A#, 3
+	tie
 	note_length M1_5, S4
 	note A#, 3
 	rest
-	note_length M1, S4
-	pitch_slide 6, A#, 2
+	note_length M1, S8
 	note A#, 4
+	pitch_slide 8, A#, 3
+	tie
 	note_length M1_5, S4
 	note A#, 3
 	rest
-	note_length M1, S4
-	pitch_slide 6, A#, 2
+	note_length M1, S8
 	note A#, 4
+	pitch_slide 8, A#, 3
+	tie
 	note A#, 3
-	pitch_slide 6, A#, 2
+	tie
 	note A#, 4
+	pitch_slide 8, A#, 3
+	tie
 	note A#, 3
+	tie
 	note_length M1, S16
 	note F_, 3
 	rest
@@ -221,29 +227,34 @@ MusicData_VisionaryCastle_Pulse1_5:
 	sound_ret
 
 MusicData_VisionaryCastle_Pulse2_4:
-	instrument 22
+	instrument 1
 	volume_const
 	note_length M1, S8
 	rest
-	note_length M1, S4
-	pitch_slide 6, A#, 2
 	note A#, 4
+	pitch_slide 8, A#, 3
+	tie
 	note_length M1_5, S4
 	note A#, 3
 	rest
-	note_length M1, S4
-	pitch_slide 6, A#, 2
+	note_length M1, S8
 	note A#, 4
+	pitch_slide 8, A#, 3
+	tie
 	note_length M1_5, S4
 	note A#, 3
 	rest
-	note_length M1, S4
-	pitch_slide 6, A#, 2
+	note_length M1, S8
 	note A#, 4
+	pitch_slide 8, A#, 3
+	tie
 	note A#, 3
-	pitch_slide 6, A#, 2
+	tie
 	note A#, 4
+	pitch_slide 8, A#, 3
+	tie
 	note A#, 3
+	tie
 	note_length M1, S16
 	note F_, 3
 	rest
