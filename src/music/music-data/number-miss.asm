@@ -10,10 +10,10 @@ MusicData_NumberMiss_Pulse1:
 	note B_, 3
 	note B_, 3
 	instrument 29
-	note_length M1, S8
-	note C_, 2
 	note_length M1_5, S2
-	tie
+	note C_, 2
+	note_length M1, S8
+	rest
 	sound_ret
 
 MusicData_NumberMiss_Pulse2:

@@ -9,7 +9,7 @@ SoundEffectData_Ouch:
 	.db      $0A, $85
 	.db $D1, $0A, $C1
 	.db $D5, $0A, $83
-	.db $D5, $0A, $C1
+	.db      $0A, $C1
 	.db $CD, $0A, $FF
 	.db $C7, $0A, $C1
 	.db $C5, $0A, $83
@@ -32,7 +32,7 @@ SoundEffectData_Ouch:
 	.db $81
 	.db $CF, $09, $94 ; HA!
 	.db $D7, $0A, $A1
-	.db      $0c, $12
+	.db      $0C, $12
 	.db $8D
 	.db $8D
 	.db $87

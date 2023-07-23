@@ -189,8 +189,10 @@ MusicData_TurnAndTry_Pulse1_2:
 
 MusicData_TurnAndTry_Pulse1_3:
 	instrument 10
+	volume_const
+	note_length M1, S1
+	note C_, 2
 	volume_fade 0, 14
-	note_length M1, S0_5
 	note C_, 2
 	sound_ret
 
@@ -227,8 +229,10 @@ MusicData_TurnAndTry_Pulse2_1:
 
 MusicData_TurnAndTry_Pulse2_2:
 	instrument 10
+	volume_const
+	note_length M1, S1
+	note G_, 2
 	volume_fade 0, 14
-	note_length M1, S0_5
 	note G_, 2
 	sound_ret
 

@@ -124,8 +124,11 @@ MusicData_SuperSonicBreak_Pulse1_4:
 	note_length M1, S16
 	rest
 	volume_const
-	note_length M1, S1
+	note_length M1_5, S2
 	note B_, 3
+	note_length M1, S8
+	tie
+	rest
 	sound_ret
 
 MusicData_SuperSonicBreak_Pulse2_1:
@@ -379,6 +382,10 @@ MusicData_SuperSonicBreak_Hill_3:
 
 MusicData_SuperSonicBreak_Noise:
 	drum_envelope DR2, M1, S4
+	drum_note 1
+	drum_envelope DR1, M1, S4
+	drum_note 1
+	drum_note 1
 	drum_note 1
 	sound_ret
 

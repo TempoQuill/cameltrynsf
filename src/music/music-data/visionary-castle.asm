@@ -284,7 +284,7 @@ MusicData_VisionaryCastle_Hill_1:
 	note G_, 3
 	note_length M1_5, S8
 	pitch_slide 24, G_, 2
-	rest
+	tie
 	sound_ret
 
 MusicData_VisionaryCastle_Hill_2:
@@ -631,7 +631,7 @@ MusicData_VisionaryCastle_FDS_8:
 	note F_, 2
 	note F_, 2
 	note F_, 2
-	instrument 5
+	instrument 4
 	note_length M1, S8
 	note E_, 4
 	note E_, 4

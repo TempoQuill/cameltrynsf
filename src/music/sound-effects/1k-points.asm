@@ -14,14 +14,14 @@ SoundEffectData_1KPoints:
 	.db $9F
 	.db $9F
 	.db $9F
-	.db $93
-	.db $93
-	.db $93
-	.db $93
-	.db $93
-	.db $93
-	.db $93
-	.db $93
-	.db $93
-	.db $93
+	.db $8B
+	.db $8B
+	.db $8B
+	.db $8B
+	.db $8B
+	.db $8B
+	.db $8B
+	.db $8B
+	.db $8B
+	.db $8B
 	.db $FF

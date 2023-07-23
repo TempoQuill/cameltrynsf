@@ -20,7 +20,7 @@ MusicData_Congrats_Pulse1:
 	tie
 	note_length M4_5, S16
 	tie
-	note_length M3, S64
+	note_length M3, S32
 	rest
 	note_length M3, S2
 	note C#, 3
@@ -326,7 +326,7 @@ MusicData_Congrats_Hill_2:
 	note F_, 3
 	note_length M4_5, S4
 	tie
-	note_length M3, S32
+	note_length M3, S16
 	tie
 	note_length M4_5, S16
 	rest
@@ -438,7 +438,7 @@ MusicData_Congrats_DPCM:
 	dpcm_note 0
 	note_length M4_5, S4
 	rest
-	note_length M3, S2
+	note_length M4_5, S2
 	rest
 
 	note_length M3, S1
@@ -519,6 +519,7 @@ MusicData_Congrats_FDS:
 	note E_, 4
 	instrument 15
 	note F#, 5
+	
 	instrument 0
 	note E_, 4
 	instrument 15

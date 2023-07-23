@@ -16,6 +16,7 @@ ModTablePointers:
 	.dw MT_Saw
 	.dw MT_SFX2
 	.dw MT_SFX2
+	.dw MT_SFX2
 
 MT_Kick:
 	.db $04, $05, $05, $05, $05, $05, $05, $05

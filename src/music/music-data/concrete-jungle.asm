@@ -215,9 +215,9 @@ MusicData_ConcreteJungle_Pulse2_2:
 	note D_, 3
 	note C_, 3
 	rest
-	note_length M4_5, S16
+	note_length M4_5, S8
 	rest
-	note_length M1, S8
+	note_length M3, S8
 	rest
 	sound_ret
 

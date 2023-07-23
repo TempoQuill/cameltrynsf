@@ -1,5 +1,5 @@
 MusicData_NumberMatch_Pulse1:
-	instrument 19
+	instrument 28
 	volume_const
 	note_length M1, S16
 	note G_, 4

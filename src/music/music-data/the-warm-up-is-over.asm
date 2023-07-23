@@ -312,7 +312,7 @@ MusicData_TWUIO_Hill_1:
 	note C_, 2
 	note_length M1, S32
 	rest
-	note_length M1_5, S8
+	note_length M1, S8
 	note C_, 3
 	note_length M1, S32
 	tie
@@ -335,7 +335,7 @@ MusicData_TWUIO_Hill_1:
 	note C_, 2
 	note_length M1, S32
 	rest
-	note_length M1_5, S8
+	note_length M1, S8
 	note C_, 3
 	note_length M1, S32
 	tie
@@ -358,7 +358,7 @@ MusicData_TWUIO_Hill_1:
 	note_length M1, S16
 	note A#, 2
 	instrument 0
-	note_length M1_5, S8
+	note_length M1, S8
 	note A#, 2
 	note_length M1, S32
 	tie
@@ -371,7 +371,7 @@ MusicData_TWUIO_Hill_2:
 	note C_, 2
 	note_length M1, S32
 	rest
-	note_length M1_5, S8
+	note_length M1, S8
 	note C_, 3
 	note_length M1, S32
 	tie
@@ -428,7 +428,7 @@ MusicData_TWUIO_Hill_3:
 	note C_, 2
 	note_length M1, S32
 	rest
-	note_length M1_5, S8
+	note_length M1, S8
 	note C_, 3
 	note_length M1, S32
 	tie

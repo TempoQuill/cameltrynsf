@@ -16,6 +16,7 @@ WavPointers:
 	.dw Wav_Saw
 	.dw Wav_Saw
 	.dw Wav_Saw
+	.dw Wav_Saw
 
 Wav_Kick:
 	.db $0B, $06, $04, $01, $00, $00, $00, $00

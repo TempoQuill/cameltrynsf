@@ -59,6 +59,6 @@ MusicData_LevelClear_FDS:
 	note E_, 4
 	note E_, 4
 	note A#, 3
-	note_length M1, S8
+	note_length M1, S4
 	note A#, 3
 	sound_ret

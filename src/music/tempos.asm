@@ -32,12 +32,12 @@ MusicTempos:
 	.db $15 ; $12
 	.db $17 ; $13
 	.db $18 ; $14
-	.db $13 ; $10
+	.db $13 ; $0F
 	.db $18 ; $14
 	; iMusic3
 	.db $1E ; $1A
 	.db $18 ; $14
-	.db $13 ; $10
+	.db $13 ; $0F
 	.db $ff
 	.db $ff
 	.db $ff

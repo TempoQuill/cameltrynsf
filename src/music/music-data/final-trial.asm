@@ -50,16 +50,16 @@ MusicData_FinalTrial_Pulse2:
 	sound_ret
 
 MusicData_FinalTrial_FDS:
-	instrument 17
+	instrument 16
 	volume_const
 	note_length M1, S32
 	note B_, 3
 	note_length M1_5, S8
-	pitch_slide 4, C_, 4
+	pitch_slide 31, C_, 4
 	tie
 	note_length M1, S32
 	rest
-	instrument 18
+	instrument 17
 	note_length M1, S16
 	note D_, 4
 	note C_, 4
